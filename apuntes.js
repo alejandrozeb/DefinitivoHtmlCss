@@ -8,5 +8,23 @@ hypertext markup languaje saltar de contenido con hiperlinks
 
 anatomia de una pagweb container-header-maincontent(sidebar, secciones)-footer
 
+***************tipos de imagenes**************
+lossy vs lossless
+con perdida/sin perdida
+el tamaño afecta a la carga de la pagina
+    ***lossless***
+no se pierde calidad pero pesadas
+    ***losy***
+pierde calidad pero carga mas rapido
+
+imagens liegras son las seleccines
+gif-lossless (grapchis)
+png8-lossless (iconos, transparencias, logos 256 colores)
+png24-lossless (tiene mas de 256 colores, fotografias)
+jpg/jpeg-Lossy (gama de colores ilimitado, pierdecalidad al comprimir, para fotografia)
+svg-vector/lossless (formato ligero, logos,los pixelesson responsive, pantallas de alta resolucion)
+
+
+
 
 */
