@@ -24,7 +24,10 @@ png24-lossless (tiene mas de 256 colores, fotografias)
 jpg/jpeg-Lossy (gama de colores ilimitado, pierdecalidad al comprimir, para fotografia)
 svg-vector/lossless (formato ligero, logos,los pixelesson responsive, pantallas de alta resolucion)
 
-
+****optimizando imagenes****
+70kb en promedio por imagen
+    *tiny png
+    *verexif elimina los metadatos(camaras)
 
 
 */
