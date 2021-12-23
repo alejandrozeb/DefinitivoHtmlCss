@@ -29,5 +29,9 @@ svg-vector/lossless (formato ligero, logos,los pixelesson responsive, pantallas 
     *tiny png
     *verexif elimina los metadatos(camaras)
 
+*******formularios***********************
+el mejor formulario es cuando no lo hay
+
+
 
 */
