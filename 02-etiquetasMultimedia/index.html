@@ -18,6 +18,23 @@
             </figure>
             <!-- ayuda a agregar una descripcion, semanticamente es mejor figure, buena practica -->
         </section>
+
+        <!-- Video -->
+
+        <section>
+            <video src="#t=10,60" controls preload="auto"></video>
+            <!-- controls no necesita valor, preload se carga rapido, #t=10,60 inicia en el segundo 10 y termina en 60 -->
+            <!--  -->
+        </section>
+        <section>
+            <video  controls preload="auto">
+                <source src="#t=10,60" />
+                <source src="#t=10,60" />
+                <source src="#t=10,60" />
+                <source src="#t=10,60" />
+                <!-- source permite usar diferentes formatos que soporte el navegador  -->
+            </video>
+        </section>
     </main>
 </body>
 </html>
