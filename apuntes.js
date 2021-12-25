@@ -32,6 +32,13 @@ svg-vector/lossless (formato ligero, logos,los pixelesson responsive, pantallas 
 *******formularios***********************
 el mejor formulario es cuando no lo hay
 
+*******Css********
+cascade style
+cascada es el algoritmo que usa elnavegador para el render.
+html->lapiz
+css-> colores, tijeras, adornos
 
+html-> esqueleto
+css-> ropa, estilo de cabello ... etc
 
 */
