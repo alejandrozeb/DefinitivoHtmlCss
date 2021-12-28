@@ -41,4 +41,12 @@ css-> colores, tijeras, adornos
 html-> esqueleto
 css-> ropa, estilo de cabello ... etc
 
+pseudo clases
+define el estilo de un estado especial de un elemento
+
+pseudo elementos
+define el estilo de una parte especifica de un elemento
+
+BEM para nombrar clases en css, para escalar
+
 */

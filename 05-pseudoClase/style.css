@@ -1,0 +1,33 @@
+.main-nav{
+    margin-top: 10px;
+    list-style: none;/* quitamos los puntos de la lista del nav*/
+    padding-left: 0;
+    background-color: #13a4a4;
+}
+/* margin externa fuera del border, padding espacio interno en un contenedor */
+
+.main-nav__item{
+    display: inline-block; /* la lista en linea */
+}
+
+.main-nav__item a{
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+/* ser especifico todos los a que contienen main-nav*/
+
+.main-nav__item a:hover{
+    color: blue;
+} 
+
+.main-nav__item a:active{
+    color: red;
+}
+/* las psuedo clases, son estados que pueden pasar como hover y active */
+
+.main-nav__item a::after{
+    content: " | ";
+}
+/* despues del elemnto agregar este contenido , estilo de una parte*/
