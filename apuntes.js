@@ -49,4 +49,9 @@ define el estilo de una parte especifica de un elemento
 
 BEM para nombrar clases en css, para escalar
 
+*****************ANAtomia de una regla css********
+todo es una regla
+selector tiene una dclaracion con elementos property y value ;
+
+
 */
