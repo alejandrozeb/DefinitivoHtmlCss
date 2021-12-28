@@ -1,0 +1,16 @@
+p{
+    color: blue;
+    font-size: 40px;
+}
+
+/* soy un comentario css */
+/* por clase */
+.parrafo{
+    color: red;
+}
+
+/* por id */
+#texto{
+    color:aqua;
+    font-size: 24px;
+}
