@@ -53,5 +53,22 @@ BEM para nombrar clases en css, para escalar
 todo es una regla
 selector tiene una dclaracion con elementos property y value ;
 
+*****MOdelo caja**************************************
+los elementos se renderizan como cajas
+margin espacio externo de la caja
+border la linea que define los elementos
+padding espacio interno de la caja hacia adentro
+contenido pude ser cualquier elemnto
 
+with tmamño de la caja o contenido
+high alto
+
+posicion con top right left bottom
+
+margin transparente
+color de fondo igual transparente
+imagen de fondo se rellena con el contenido
+relleno paddind
+border
+contenido visible
 */
