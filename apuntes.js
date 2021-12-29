@@ -73,4 +73,36 @@ border
 contenido visible
 ******herencia****************************
 hereda del padre inmediato
+
+***especificidad******
+orden de ejecucion de css
+orden al declarar
+importancia,especificidad, orden de las fuentes
+
+si se tiene el mismo nivel de importancia la especificidad decide cual aplicar.
+si se tiene la misma especificidad el orden de las fuentes controla el resultado final
+
+importancia------------------------
+1 primero el navegador carga sus propio estilo
+2 declaraciones normales en css
+3 declaraciones en hojas con !importan(no es buena practica usar !important)
+
+-----------especificidad------------
+!important 1.0.0.0.0
+inline Styles (son los que vienen con stylo) 0.1.0.0.0
+#id         0.0.1.0.0
+#clases     0.0.0.1.0
+tag         0.0.0.0.1
+
+pueden existir combinaciones 0.0.1.1, 0.1.0.1
+con los que varia la especificidad de cada elemento
+
+------reglas cascada----------
+1conflicto -> important? -> inline? -> selector? -> fuente original
+
+--orden de las fuentes----------
+css trabajo como cascada
+
+las dclaraciones del final anularan las de arriba
+VScode te da la especificidad de la regla con la yuda del mouse
 */
