@@ -1,0 +1,8 @@
+html{
+    font-size: 75%;/* no hereda a h1 */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: inherit;/* para que pueda heredar de su padre cercano */
+}

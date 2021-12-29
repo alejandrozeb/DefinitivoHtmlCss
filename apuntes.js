@@ -71,4 +71,6 @@ imagen de fondo se rellena con el contenido
 relleno paddind
 border
 contenido visible
+******herencia****************************
+hereda del padre inmediato
 */
