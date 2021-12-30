@@ -109,5 +109,12 @@ VScode te da la especificidad de la regla con la yuda del mouse
 mala practica usar demasiados id
 mejos usar clases y selectores
 
+---------combinators------------------------------------
+mejoran la especificidad
+combinamos multiples slectores y creamos una mayor especificidad
 
+hermano adyacente o cercano div+p
+hermano general div-p
+hijo div>p
+descendiente div p
 */
