@@ -1,0 +1,5 @@
+/* combinadores */
+h2 + p {
+    color: red;
+}
+/* aplica el color rojo a todas las p que estan cerca de h2 +*/
