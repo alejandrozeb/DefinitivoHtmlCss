@@ -105,4 +105,9 @@ css trabajo como cascada
 
 las dclaraciones del final anularan las de arriba
 VScode te da la especificidad de la regla con la yuda del mouse
+
+mala practica usar demasiados id
+mejos usar clases y selectores
+
+
 */
