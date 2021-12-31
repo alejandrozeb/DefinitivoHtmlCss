@@ -9,3 +9,15 @@ h2 ~ p {
 color: red;
 }
 /* los hermanos generales deben estar en el mismo nivel */
+
+/* child */
+div > p{
+    color: red;
+}
+/* hija directa de div, un nivel abajo */
+
+/* descendiente */
+div  p{
+    color: blue;
+}
+/* todas las p que estan en un div aplica la regla */
