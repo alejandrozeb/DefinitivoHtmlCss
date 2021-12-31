@@ -1,5 +1,11 @@
 /* combinadores */
-h2 + p {
+/* h2 + p {
     color: red;
-}
+} */
 /* aplica el color rojo a todas las p que estan cerca de h2 +*/
+
+/* alt 126 asci */
+h2 ~ p {
+color: red;
+}
+/* los hermanos generales deben estar en el mismo nivel */
