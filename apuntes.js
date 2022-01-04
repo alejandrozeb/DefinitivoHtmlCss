@@ -117,4 +117,8 @@ hermano adyacente o cercano div+p
 hermano general div-p
 hijo div>p
 descendiente div p
+
+-----------Medidas------------------------------------------
+absolutas: pixeles no cambia sin importar el tamaño del navegador
+Relativas: cambian el tamaño dependiendo del dispositivo EM, REM, % max, min, viewportWidht and high
 */
