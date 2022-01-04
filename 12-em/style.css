@@ -1,0 +1,13 @@
+body{
+    font-size: 20px;
+}
+.text-container{
+    font-size: 1.5em;
+}
+/* toma el tamaño de fuente del padre directo,16*1.5=24  */
+
+
+.text-container div{
+    font-size: 1.5em;
+}
+/* podemos generar bugs con dos tags de tamaño distinto,  por padres anidados */
