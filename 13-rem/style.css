@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+p{
+    font-size: 1.5rem;
+}
+/* rem siempre tiene referencia de la etiqueta root(html) 16px por defecto */
+/* 1.5 15 pixeles, ya tenemos control */
+
+main div{
+    font-size: 16rem;
+}
+/* pixeles para fuentes con rem */
