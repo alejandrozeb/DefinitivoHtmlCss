@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width:100vw;
+    height: 100vh;
+    background-color: blueviolet;
+}
+/* ocupan todo el viewport */
+/* podemos posicionar padres */
+
+section{
+    width: 80%;
+    min-width: 320px;
+    max-width: 500px;
+    height: 500px;
+    min-height: 500px;
+    margin: 0 auto; /* de arriba abajo no tiene y los costados se ajustan */
+    background-color: red;
+}
+/* para min-with y max with debemos tener un w y h base */
+/* overflow error de contenido del hijo al padre */
