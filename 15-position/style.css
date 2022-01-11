@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.parent{
+    border: 2px black dotted;
+    display: inline-block;
+}
+
+.box{
+    display: inline-block;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+#two{
+    background-color: green;
+    position: absolute;/* el contenedor se sobrepone sobre otros pierde su posicion*/
+}
+/* en static no podemos usar el top bottom left or right */

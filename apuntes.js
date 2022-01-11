@@ -121,4 +121,10 @@ descendiente div p
 -----------Medidas------------------------------------------
 absolutas: pixeles no cambia sin importar el tamaño del navegador
 Relativas: cambian el tamaño dependiendo del dispositivo EM, REM, % max, min, viewportWidht and high
+------------------Position---------------------------------------
+Position
+static por defecto los elementos se quedan estaticos
+absolute, realtive,  fixed, sticky
+
+
 */
