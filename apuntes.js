@@ -125,6 +125,14 @@ Relativas: cambian el tamaño dependiendo del dispositivo EM, REM, % max, min, v
 Position
 static por defecto los elementos se quedan estaticos
 absolute, realtive,  fixed, sticky
+--------------------------Display--------------------
+block la etiquetas usan el 100 %
+
+inline utiliza el espacio del contenido. no se puede usar padding o margin top or bot tampoco tiene with and high
+
+inline block ya podemos usar los padding o margin
+toma solo el espacio de su contenido
+
 
 
 */
