@@ -60,3 +60,25 @@
     border-radius: 30px;
     text-align: center;
 }
+.footer{
+    background-color: red;
+    height: 40px;
+}
+
+.redesSociales{
+    display: inline-block;
+    right: 20px;
+    position: absolute;
+}
+
+.redesSociales li{
+    display: inline-block;
+}
+
+.informacion{
+    display: inline-block;
+}
+
+.informacion li{
+    display: inline-block;
+}
