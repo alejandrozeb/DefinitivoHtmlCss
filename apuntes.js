@@ -133,6 +133,20 @@ inline utiliza el espacio del contenido. no se puede usar padding o margin top o
 inline block ya podemos usar los padding o margin
 toma solo el espacio de su contenido
 
+----display flex-----------
+responsive
+los hijos coexisten uno delante de otro
+display direction es la forma en como se acomodan los hijos por defecto viene en row
+opciones flex-direction column, row-reverse(voltea eñ orden de los hijos) , column-reverse
 
+debemos tener un container principal
+flex-wrap: wrap los  hijos se hacen responsive y van bajando de row
+wrap-reverse suben los hijos
+
+justify content:center alinea el contenido de manera horizontal evita el uso del margin
+flex-end alinea a la derecha
+flex-start alian a la izquierda
+space-around los contenedores se reparten
+space-evenly el espacio entre hijos es el mismo
 
 */
