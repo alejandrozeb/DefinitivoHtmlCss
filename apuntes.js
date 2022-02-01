@@ -149,4 +149,22 @@ flex-start alian a la izquierda
 space-around los contenedores se reparten
 space-evenly el espacio entre hijos es el mismo
 
+vertical
+align-items:
+flex end abajo
+flex start arriba
+stretch los hijos se estiran al 100% de su contenedor padre sin high
+baseline los hijos toman el high de su contenido
+
+order podemos asignar un orden en los containers que sea independiente del class name los que no tienen orden se van a la izquierda
+
+flex-grow hace que el box llene todo el espacio que sobre o tmanie disminuye.
+
+flex-basis: 10rem;
+flex-grow: 1; se convierte en responsive los containers
+
+
+
+
+
 */
