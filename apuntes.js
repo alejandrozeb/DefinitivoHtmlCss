@@ -171,6 +171,50 @@ se repiten tamaño de fuentes, colores... etc
 --<<name variable>> 
 sintaxis
 
+--------------------web fonts-----------------------------------------
+genericas 
+serif tienen puntas la final
+sans-serif no tienen puntas al final
+cursive cursiva
+monospace 
+ya vienen instaladas como fuentes bases
+
+podemos buscar con google fonts einsertar el embed en el codigo
+los import no son buenas particas las fuentes deben estar en el header como link
+
+carga primero con la fuente por default y luego cambia fuente con la deseada.
+
+podemos usar un css como regla
+font-family: roboto, sans-serifs;
+
+buenas practica 1 fuente por proyecto
+importar en el head
+
+-----------Responsive Design------------------------------------------
+breakpoints el tamaño donde se redimensiona la pantalla
+
+media queries
+
+@media (min-width:480px){ 768px, 1024px
+se ejecuta el codigo aqui
+    .class{
+
+    }
+    .div{
+        
+    }
+}
+
+Mobile first/only
+siempre de un mobile a tablet a laptop
+
+debe ir en orden de menor tamaño al maximo
+poodemos usar diferentes tipos de css en diferentes archivos especificado el tamaño
+
+<link rel="stylesheet" href="./style.css">
+<link rel="stylesheet" href="./table.css" media="screen and (min-width: 760px)">
+
+asi el usuario solo usa el codigo que necesita.
 
 
 
