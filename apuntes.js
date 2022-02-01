@@ -163,6 +163,13 @@ flex-grow hace que el box llene todo el espacio que sobre o tmanie disminuye.
 flex-basis: 10rem;
 flex-grow: 1; se convierte en responsive los containers
 
+---------------------Variables-----------------------------------
+custom properties podemos guardar valores y evitamos generar codigo repetido.
+se repiten tamaño de fuentes, colores... etc
+
+:root{} 
+--<<name variable>> 
+sintaxis
 
 
 
