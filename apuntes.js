@@ -224,6 +224,11 @@ inicia con columnas -> reacomodamos las columnas por o,por importancia
 LayoutShifter
 los containers se van reacomodadndo con containers padres
 
+column Drop
+cuando empieza a crecer los bloques van subiendo
+
+
+
 
 
 
