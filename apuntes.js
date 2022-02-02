@@ -219,7 +219,12 @@ asi el usuario solo usa el codigo que necesita.
 ----------------------Paatronrs de maquetacion, Responsive Design-----
 
 mostly Fluid
-inicia con columnas -> reacomodamos las columnas por o,poratancia
+inicia con columnas -> reacomodamos las columnas por o,por importancia
+
+LayoutShifter
+los containers se van reacomodadndo con containers padres
+
+
 
 
 
