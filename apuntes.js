@@ -216,6 +216,12 @@ poodemos usar diferentes tipos de css en diferentes archivos especificado el tam
 
 asi el usuario solo usa el codigo que necesita.
 
+----------------------Paatronrs de maquetacion, Responsive Design-----
+
+mostly Fluid
+inicia con columnas -> reacomodamos las columnas por o,poratancia
+
+
 
 
 */
